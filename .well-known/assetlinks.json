@@ -1,0 +1,74 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.familykeeper.parents",
+      "sha256_cert_fingerprints": [
+        "73:9C:D9:E9:BC:16:F2:A6:E1:5B:0E:AA:28:F9:4F:FD:3F:60:AD:E8:2C:10:3A:47:B0:1B:CB:98:0D:24:8D:D1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.familykeeper.kids",
+      "sha256_cert_fingerprints": [
+        "4B:8F:0F:95:E2:E6:9F:E7:8F:A2:1D:7B:08:D4:6A:0B:E6:32:B6:28:7F:7B:38:A2:0F:FF:20:D5:D5:5B:24:5B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.familykeeper.parents",
+      "sha256_cert_fingerprints": [
+        "63:5D:04:A5:4C:2D:54:F1:8B:B7:A6:3F:3E:F5:B7:85:91:E4:77:F0:59:AE:C4:78:E6:9E:B6:78:0E:98:F3:DA"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.familykeeper.parents",
+      "sha256_cert_fingerprints": [
+        "8F:1E:B6:80:B8:95:82:3B:3C:AE:D1:1F:71:1E:6E:CC:CC:55:14:12:6B:51:49:64:3E:1E:0D:C7:71:15:FF:3D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.familykeeper.kids",
+      "sha256_cert_fingerprints": [
+        "8F:1E:B6:80:B8:95:82:3B:3C:AE:D1:1F:71:1E:6E:CC:CC:55:14:12:6B:51:49:64:3E:1E:0D:C7:71:15:FF:3D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.familykeeper.kids",
+      "sha256_cert_fingerprints": [
+        "69:F2:A6:3A:98:14:89:46:80:C0:80:F0:54:27:EB:29:BA:CC:8C:17:96:FC:13:27:93:E6:F2:D1:77:6B:CC:F8"
+      ]
+    }
+  }
+]
